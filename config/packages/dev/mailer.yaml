@@ -1,0 +1,4 @@
+framework:
+    mailer:
+        envelope:
+            recipients: ['dev@cap-coding.com']
