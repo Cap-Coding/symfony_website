@@ -1,6 +1,6 @@
 # Create a classic website using Symfony 5
 
-Watch full tutorial [here](https://youtu.be/XXX)
+Watch full tutorial [here](https://youtu.be/svAxl6U8akQ)
 
 ## Launch project
 
